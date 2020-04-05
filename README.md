@@ -7,3 +7,6 @@ and GUI part is done with the help of Java standard GUI libraries and Action Lis
 1- Download the code using git clone on your local pc. <br>
 2- Execute src/JChess.java in any JVM. <br>
 3- Enjoy playing! <br>
+
+![](sample2.JPG)
+![](sample1.JPG)
